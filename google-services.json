@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961076986618",
+    "firebase_url": "https://pollutionappfinaltry.firebaseio.com",
+    "project_id": "pollutionappfinaltry",
+    "storage_bucket": "pollutionappfinaltry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961076986618:android:118d7accd5b602be89bf43",
+        "android_client_info": {
+          "package_name": "com.example.pollutionappfinaltry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961076986618-ddtrapvim5mgltonv24af5nlp06eb8rs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxWFuDRZC6zun-pf597JrPd108nhwl61I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961076986618-ddtrapvim5mgltonv24af5nlp06eb8rs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
